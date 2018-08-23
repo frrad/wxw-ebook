@@ -1,0 +1,6 @@
+*.epub
+*.mobi
+cleanmd/*
+markdown/*
+source/*
+cover/*
